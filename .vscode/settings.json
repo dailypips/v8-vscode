@@ -1,0 +1,38 @@
+{
+    "python.pythonPath": "/usr/local/opt/python@2/bin/python2.7",
+    "files.associations": {
+        "cmath": "cpp",
+        "system_error": "cpp"
+    },
+    "cquery.launch.command": "/usr/local/bin/cquery",
+    "cquery.cacheDirectory": "/Users/gaoxiaojun/.cquery-cache/",
+    "cquery.completion.include.blacklist": [
+        ".*/.vscache/.*",
+        "/tmp.*",
+        "build/.*",
+        "test/.*",
+        "testing/.*"
+    ],
+    "cquery.highlighting.enabled.types": true,
+    "cquery.highlighting.enabled.freeStandingFunctions": true,
+    "cquery.highlighting.enabled.memberFunctions": true,
+    "cquery.highlighting.enabled.freeStandingVariables": true,
+    "cquery.highlighting.enabled.memberVariables": true,
+    "cquery.highlighting.enabled.namespaces": true,
+    "cquery.highlighting.enabled.macros": true,
+    "cquery.highlighting.enabled.enums": true,
+    "cquery.highlighting.enabled.typeAliases": true,
+    "cquery.highlighting.enabled.enumConstants": true,
+    "cquery.highlighting.enabled.staticMemberFunctions": true,
+    "cquery.highlighting.enabled.parameters": true,
+    "cquery.highlighting.enabled.templateParameters": true,
+    "cquery.highlighting.enabled.staticMemberVariables": true,
+    "cquery.highlighting.enabled.globalVariables": true,
+    "C_Cpp.autocomplete": "Disabled",
+    "C_Cpp.formatting": "Disabled",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.intelliSenseEngine": "Disabled",
+    "cSpell.words": [
+        "tasm"
+    ],
+}
